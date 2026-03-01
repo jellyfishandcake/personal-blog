@@ -1,5 +1,5 @@
 baseURL: "https://jellyfishandcake.github.io/"
-title: "Julia | Portfolio"
+title: "jellyfishandcake | personal-blog"
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 
 module:
