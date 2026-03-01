@@ -9,3 +9,15 @@ module:
 params:
   env: production
   hasCJKLanguage: true # This makes your Chinese text look good!
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
