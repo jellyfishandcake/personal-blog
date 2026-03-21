@@ -1,4 +1,4 @@
-baseURL: "https://jellyfishandcake.github.io/personal-blog/"
+baseURL: "https://jellyfishandcake.github.io/"
 title: "jellyfishandcake | personal-blog"
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 
@@ -37,9 +37,9 @@ languages:
       main:
         - identifier: about
           name: 关于
-          url: /about/
+          url: /personal-blog/zh/about/
           weight: 10
         - identifier: posts
           name: 文章
-          url: /posts/
+          url: /personal-blog/zh/posts/
           weight: 20
