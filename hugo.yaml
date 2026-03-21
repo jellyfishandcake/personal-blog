@@ -12,7 +12,6 @@ defaultContentLanguageInSubdir: false
 languages:
   en:
     languageName: "English"
-    baseURL: "https://jellyfishandcake.github.io/personal-blog/"
     weight: 1
     params:
       env: production
@@ -30,7 +29,6 @@ languages:
 
   zh:
     languageName: "中文 (Chinese)"
-    baseURL: "https://jellyfishandcake.github.io/personal-blog/zh/"
     weight: 2
     params:
       env: production
