@@ -1,9 +1,10 @@
 ---
 title: "About me"
 date: 2026-03-01
+lastUpdated: "2026-03-02"
+originalLang: "English"
 draft: false
 ---
-Last update: 2026-03-02
 
 Hello, this is Julia! I am a passionate engineer who loves to think, analytically and philosophically. I hope you will find interesting thoughts here as you follow my journey. 
 

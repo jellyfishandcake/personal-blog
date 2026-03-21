@@ -1,9 +1,10 @@
 ---
 title: "关于我"
 date: 2026-03-01
+lastUpdated: "2026-03-02"
+originalLang: "English"
 draft: false
 ---
-最后更新：2026-03-02
 
 你好，我是Julia！我是一位热爱思考的工程师，喜欢从分析和哲学的角度来看问题。希望你在这里能找到一些有趣的想法。
 

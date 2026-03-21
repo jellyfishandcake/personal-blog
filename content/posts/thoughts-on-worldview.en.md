@@ -1,6 +1,7 @@
 ---
 title: "Worldview and what it entails (+ comment on knowledge)"
 date: 2026-03-18
+originalLang: "English"
 draft: false
 ---
 Rapidly following the struggle with conceptualisating AI and how it fits into my understanding of the world, I've discovered something fascinating - business and marketing. What sparked the following train of thoughts would have to be the Lent Week 6 Engineer in Business lecture, where the female lecturer's intro to marketing caught my attention. What she was describing resonated with me, as I was able to visualise the stories she told, and I know that's when deep learning and critical thinking actually happen. 
