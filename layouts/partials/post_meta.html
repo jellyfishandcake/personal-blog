@@ -5,11 +5,19 @@
 {{- end }}
 
 {{- with .Params.lastUpdated -}}
+{{- if eq $.Lang "zh" -}}
+{{- $scratch.Add "meta" (slice (printf "<span>更新于: %s</span>" .)) }}
+{{- else -}}
 {{- $scratch.Add "meta" (slice (printf "<span>Updated: %s</span>" .)) }}
+{{- end }}
 {{- end }}
 
 {{- with .Params.originalLang -}}
+{{- if eq $.Lang "zh" -}}
+{{- $scratch.Add "meta" (slice (printf "<span>原文语言: %s</span>" .)) }}
+{{- else -}}
 {{- $scratch.Add "meta" (slice (printf "<span>Originally in %s</span>" .)) }}
+{{- end }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}

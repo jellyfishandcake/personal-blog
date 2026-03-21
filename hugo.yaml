@@ -28,7 +28,7 @@ languages:
           weight: 20
 
   zh:
-    languageName: "中文"
+    languageName: "中文 (Chinese)"
     weight: 2
     params:
       env: production
