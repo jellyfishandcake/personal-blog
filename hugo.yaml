@@ -1,4 +1,4 @@
-baseURL: "https://jellyfishandcake.github.io/"
+baseURL: "https://jellyfishandcake.github.io/personal-blog/"
 title: "jellyfishandcake | personal-blog"
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 
