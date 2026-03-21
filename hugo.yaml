@@ -37,9 +37,9 @@ languages:
       main:
         - identifier: about
           name: 关于
-          url: /personal-blog/zh/about/
+          url: /about/
           weight: 10
         - identifier: posts
           name: 文章
-          url: /personal-blog/zh/posts/
+          url: /posts/
           weight: 20
