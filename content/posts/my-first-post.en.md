@@ -1,6 +1,7 @@
 ---
 title: "Getting started"
 date: 2026-03-01
+originalLang: "English"
 draft: false
 ---
 

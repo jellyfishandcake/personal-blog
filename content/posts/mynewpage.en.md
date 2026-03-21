@@ -1,6 +1,7 @@
 ---
 title: "Thoughts on AI"
 date: 2026-03-04
+originalLang: "English"
 draft: true
 ---
 
