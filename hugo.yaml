@@ -29,6 +29,7 @@ languages:
 
   zh:
     languageName: "中文 (Chinese)"
+    baseURL: "https://jellyfishandcake.github.io/personal-blog/zh/"
     weight: 2
     params:
       env: production
