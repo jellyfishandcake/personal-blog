@@ -1,7 +1,7 @@
 ---
 title: "My evolving relationship with AI"
 date: 2026-03-04
-draft: true
+draft: false
 lastUpdated: "2026-04-06"
 originalLang: "English"
 ---
