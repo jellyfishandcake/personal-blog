@@ -28,7 +28,7 @@ languages:
           weight: 20
         - identifier: cv
           name: CV
-          url: /cv.pdf
+          url: "https://jellyfishandcake.github.io/personal-blog/cv.pdf"
           weight: 30
 
   zh:
@@ -48,5 +48,5 @@ languages:
           weight: 20
         - identifier: cv
           name: 简历
-          url: /cv.pdf # placeholder: swap to /cv.zh.pdf once a Chinese CV exists
+          url: "https://jellyfishandcake.github.io/personal-blog/cv.pdf" # placeholder: swap to a Chinese CV once one exists
           weight: 30
